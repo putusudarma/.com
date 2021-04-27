@@ -1,0 +1,9 @@
+baseURL = "https://www.putusudarma.com/"
+languageCode = "id-ID"
+title = ".Putusudarma"
+
+theme = "tale"
+[Author]
+    name = "putusudarma"
+[Params]
+css = ["custom.css"]
