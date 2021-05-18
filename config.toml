@@ -8,3 +8,5 @@ theme = "tale"
 [Params]
 css = ["custom.css"]
 description = ".Putusudarma"
+[taxonomies]
+   tag = "tags"
