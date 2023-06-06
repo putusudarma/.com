@@ -10,3 +10,7 @@ css = ["custom.css"]
 description = ".Putusudarma"
 [taxonomies]
    tag = "tags"
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
